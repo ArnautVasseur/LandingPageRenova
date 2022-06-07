@@ -4,7 +4,12 @@ module.exports = {
     "./src/**/*.{vue,js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'johnatan1':"url('public/jonathan-borba-mHTFGuCXREQ-unsplash1.webp')",
+        'johnatan2':"url('public/jonathan-borba-mHTFGuCXREQ-unsplash2.webp')"
+      }
+    },
   },
   plugins: [],
 }
