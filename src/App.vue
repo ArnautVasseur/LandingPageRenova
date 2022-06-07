@@ -4,7 +4,7 @@ import { RouterLink, RouterView } from 'vue-router'
 
 <template>
   <div class="bg-johnatan1 h-[600px] w-[375px] p-5">
-    <img src="/public/Logo.png" alt="logo" class="w-36 h-32 left-0 right-0 mx-auto mb-10"/>
+    <img src="/Logo.png" alt="logo" class="w-36 h-32 left-0 right-0 mx-auto mb-10"/>
     <p class="text-white text-2xl font-bold leading-7 mb-5 tracking-tight">Un objet ne vous plait plus
       et vous souhaitez vous en 
       débarasser?</p>
@@ -29,7 +29,7 @@ sont jeter en France par an</p>
       Rejoindre l'aventure
     </button>
     </a>
-    <img src="/public/boite-de-recyclage.png" alt="boiterecyclage" class="left-0 right-0 mx-auto">
+    <img src="/boite-de-recyclage.png" alt="boiterecyclage" class="left-0 right-0 mx-auto">
   </div>
   <div class="bg-johnatan2 w-[375px] h-[500px] p-7">
      <p class="text-white text-2xl font-bold leading-7 mb-5 tracking-tight mt-24">Un objet ne vous plait plus

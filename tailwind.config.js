@@ -6,8 +6,8 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'johnatan1':"url('public/jonathan-borba-mHTFGuCXREQ-unsplash1.webp')",
-        'johnatan2':"url('public/jonathan-borba-mHTFGuCXREQ-unsplash2.webp')"
+        'johnatan1':"url('/jonathan-borba-mHTFGuCXREQ-unsplash1.webp')",
+        'johnatan2':"url('/jonathan-borba-mHTFGuCXREQ-unsplash2.webp')"
       }
     },
   },
